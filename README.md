@@ -1,2 +1,0 @@
-# angularnyt
-Created with CodeSandbox
